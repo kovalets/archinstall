@@ -1081,7 +1081,7 @@ msgid ""
 msgstr ""
 
 msgid "Graphics driver"
-msgstr ""
+msgstr "Графічний драйвер"
 
 msgid "Greeter"
 msgstr ""
